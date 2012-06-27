@@ -1,0 +1,6 @@
+1-Main,2-recharging
+1!Main,No power-2
+1!0!Search,Seen Trash-11
+1!1!Head for Trash,Got Trash-12
+1!2!Head for Compactor,Trash Disposed-10
+2!0!Get Power,Recharged-1
